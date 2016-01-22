@@ -2,4 +2,4 @@
 
 Helping test commit references
 
-Who can bring us all the claritin?
+Who can bring us all the Claritin?
