@@ -1,3 +1,3 @@
 # A moment of Octo-clarity
 
-Helping make commit references better
+Helping make commit references better!
